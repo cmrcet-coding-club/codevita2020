@@ -1,3 +1,4 @@
+//Code by Ambati Gayatri
 #include <bits/stdc++.h>
 using namespace std;
 int seive[600]; 
