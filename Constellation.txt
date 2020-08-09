@@ -1,5 +1,7 @@
 Problem Description
-Three characters { #, *, . } represents a constellation of stars and galaxies in space. Each galaxy is demarcated by # characters. There can be one or many stars in a given galaxy. Stars can only be in shape of vowels { A, E, I, O, U } . A collection of * in the shape of the vowels is a star. A star is contained in a 3x3 block. Stars cannot be overlapping. The dot(.) character denotes empty space.
+Three characters { #, *, . } represents a constellation of stars and galaxies in space. Each galaxy is demarcated by # characters. 
+There can be one or many stars in a given galaxy. Stars can only be in shape of vowels { A, E, I, O, U } . A collection of * in the shape of the vowels is a star.
+A star is contained in a 3x3 block. Stars cannot be overlapping. The dot(.) character denotes empty space.
 
 Given 3xN matrix comprising of { #, *, . } character, find the galaxy and stars within them.
 
@@ -38,8 +40,6 @@ Explanation
 
 As it can be seen that the stars make the image of the alphabets U, O, I, E and A respectively.
 
-com.tcs.cv.automata.ei.middleware.DocxToHtmlConverter@1aefe2ea:image1.png
-
 Example 2
 
 Input
@@ -59,5 +59,3 @@ U#I#A
 Explanation
 
 As it can be seen that the stars make the image of the alphabet U, I and A.
-
-com.tcs.cv.automata.ei.middleware.DocxToHtmlConverter@1aefe2ea:image1.png
