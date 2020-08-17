@@ -1,0 +1,1 @@
+Given few elements and an integer K,find number of happy elements. Element X is happy if there exists at least 1 element whose absolute difference is less than K.
